@@ -1,8 +1,8 @@
 # Site settings
 title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        ""
-url:            ""
+baseurl:        "/fashlifas"
+url:            "https://fashlifas.github.io"
 
 # Author
 author:
